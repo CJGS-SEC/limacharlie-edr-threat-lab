@@ -12,7 +12,7 @@ Windows Host (Local Machine)
           └── Cloud Pipeline Telemetry Ingestion
                  └── Rule Detection Engine (YAML Rules)
                         └── Real-Time Incident Triage & Alerts
-
+```
 Threat Simulations Executed (MITRE ATT&CK Mapping)
 Persistence / Local Account Creation (MITRE T1136.001): Executed local administrative account additions via elevated Command Prompt sessions (net.exe user /add).
 
